@@ -1,0 +1,21 @@
+{
+  "name": "primeupto",
+  "version": "0.0.1",
+  "description": "primeupto",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimalverma558/primeupto.git"
+  },
+  "keywords": [
+    "prime",
+    "math",
+    "ptimeupto"
+  ],
+  "author": "letskhabar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vimalverma558/primeupto/issues"
+  },
+  "homepage": "https://github.com/vimalverma558/primeupto#readme"
+}
