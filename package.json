@@ -1,6 +1,6 @@
 {
   "name": "primeupto",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "primeupto",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,9 @@
   "keywords": [
     "prime",
     "math",
-    "ptimeupto"
+    "ptimeupto",
+    "find prime",
+    "prime up to"
   ],
   "author": "letskhabar",
   "license": "MIT",
