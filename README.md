@@ -3,8 +3,8 @@ primeupto is an math library for JavaScript and Node.js. It help you to find all
 
 [![Version](https://img.shields.io/npm/v/primeupto)](https://www.npmjs.com/package/primeupto)
 [![license](https://img.shields.io/npm/l/primeupto)](https://www.npmjs.com/package/primeupto)
-[![Version](https://img.shields.io/npm/v/primeupto)](https://www.npmjs.com/package/primeupto)
-[![license](https://img.shields.io/npm/l/primeupto)](https://www.npmjs.com/package/primeupto)
+[![Fork](https://img.shields.io/github/forks/letskhabar/primeupto?label=fork&style=social)](https://www.npmjs.com/package/primeupto)
+[![Star](https://img.shields.io/github/stars/letskhabar/primeupto?style=social)](https://www.npmjs.com/package/primeupto)
 
 
 ## Features
