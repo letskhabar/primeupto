@@ -1,11 +1,14 @@
 {
   "name": "primeupto",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "primeupto",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/letskhabar/primeupto.git"
+  },
+  "scripts": {
+    "test": "node index.js"
   },
   "keywords": [
     "prime",
