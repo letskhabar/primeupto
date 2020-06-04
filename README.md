@@ -47,7 +47,7 @@ console.log(primelength(53));  // 16
 ## Run
 
 ```
-npm test
+node index.js
 ```
 
 See the [Getting Started](https://github.com/letskhabar/primeupto) for a more detailed tutorial.
