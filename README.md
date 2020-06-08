@@ -16,6 +16,7 @@ primeupto is an math library for JavaScript and Node.js. It help you to find all
 - find all prime number from m to n.  // comming soon
 - find number of prime upto n.
 - find number of prime from m to n.
+- find a number is Prime or not.
 - Can be used in command line as well.
 - Runs on any JavaScript engine.
 - Is easily extensible.
@@ -31,16 +32,20 @@ Install primeupto using [npm](https://www.npmjs.com/package/primeupto):
 
 
 ```js
-const {primeupto,primelength} = require('primeupto');
+const {primeupto,primelength,isPrime} = require('primeupto');
 
-console.log(primeupto(5));   // 2,3,5
+console.log(primeupto(5));     // 2,3,5
 console.log(primelength(5));   // 3
-console.log(primeupto(34));  // 2,3,5,7,11,13,17,19,23,29,31
+console.log(isPrime(5));       // true
+console.log(primeupto(34));    // 2,3,5,7,11,13,17,19,23,29,31
 console.log(primelength(34));  // 11
-console.log(primeupto(25));  // 2,3,5,7,11,13,17,19,23
+console.log(isPrime(34));      // false
+console.log(primeupto(25));    // 2,3,5,7,11,13,17,19,23
 console.log(primelength(25));  // 9
-console.log(primeupto(53));  // 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53
+console.log(isPrime(25));      // false
+console.log(primeupto(53));    // 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53
 console.log(primelength(53));  // 16
+console.log(isPrime(53));      // true
 
 ```
 
